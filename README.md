@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+Hi world,
+I'm Roberto Delfino, I'm italian.
+I'm 22 yeaes old.
+I like Java.
